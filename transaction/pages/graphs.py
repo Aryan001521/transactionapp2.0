@@ -16,7 +16,7 @@ paymentstatus = st .selectbox(
 )
 
 paymentsMethad = st .selectbox(
-    'What Payment Status Would You Like to See',
+    'What Payment Type Would You Like to See',
     ('All','Goods and Service','Friends & Family',)
 )
 
