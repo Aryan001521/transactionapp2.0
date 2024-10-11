@@ -3,7 +3,7 @@ st.set_page_config(
     page_title="Welcome",
     page_icon="👋",
 )
-st.write("# Welcome to Paypal Reviews")
+st.write("# Welcome to Transaction Anylasis")
 st.sidebar.success("select a page ")
 
 st.markdown(
